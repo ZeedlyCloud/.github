@@ -1,10 +1,10 @@
 <center>
 
-![Image of MetaCloud](https://cdn.upload-host.de/8/b88cf1-2fa7d5.png)
+![Image of ZeedlyCloud](https://cdn.upload-host.de/m/33b32d-de71af.png)
 
 </center>
 
-This is the **MythicCloud** project, it is a dynamic Minecraft cloud management system based on Nio-Networking, it is designed to provide the user with a good and user-friendly experience
+This is the **ZeedlyCloud** project, it is a dynamic Minecraft cloud management system based on Nio-Networking, it is designed to provide the user with a good and user-friendly experience
 
 **IMPORTANT**: *This Project is still in Development*
 
@@ -27,7 +27,7 @@ This is the **MythicCloud** project, it is a dynamic Minecraft cloud management 
 - **Dashboard** to handle the whole Cloud
 - and much more..
 
-## Setup the MythicCloud (not ready yet)
+## Set up the ZeedlyCloud (not ready yet)
 - Update your server 
 ```
 - apt update -y && apt upgrade -y
@@ -38,11 +38,11 @@ apt install screen wget nano unzip -y
 ```
 - **Java & Utils**
 ```
-wget https://files.mythiccloud.de/shell/java_installer.sh
+wget https://files.zeedly.cloud/shell/java_installer.sh
 ```
 - **Download the Zip folder**
 ```
-wget https://dl.mythiccloud.de/releases/latest/download/MythicCloud-latest.zip
+wget https://dl.zeedly.cloud/releases/latest/download/ZeedlyCloud-latest.zip
 ```
 - **Make the start file executable:**
 ```
@@ -64,20 +64,25 @@ chmod +x start.sh
 - [✔] Restapi with realtime resuls
 - [✔] Module-System
 - [✔] SyncProxy Module
-- [✁] CloudSigns Module
-- [✔] LoadBalancer Module
-- [✎] Permission Module
-- [☓] Dashboard Module
-- [☓] NPC Module
-- [✔] Handle some Spigot-Versions and Bungeecord-Versions
-- [✁] CloudAPI
 - [✔] Dynamic starting Server Services
 - [✔] Static starting Server Services
 - [✔] Auto-Starting servers
 - [✔] Lobby balancing
 - [✔] Cloud Setup
 - [✔] CommandSystem and Console Output
+- [✔] Handle some Spigot-Versions and Bungeecord-Versions
+- [✔] LoadBalancer Module
+  <br><br>
+- [✎] Permission Module
+- [✁] CloudAPI
+- [✁] CloudSigns Module
+  <br><br>
+- [☓] Dashboard Module
+- [☓] NPC Module
+  <br><br><br><br>
 
 ## Support
-- Our Discord: [dc.MythicCloud.de](https://discord.gift)
-- Homepage: [www.MythicCloud.de](https://www.mythiccloud.de) (*Cooming Soon*)
+
+> Cheap Hoster: take [ExpanseHost](https://aff.eynoah.de)
+- Our Discord: [dc.Zeedly.cloud](https://discord.gift)
+- Homepage: [www.Zeedly.cloud](https://www.mythiccloud.de) (*Cooming Soon*)

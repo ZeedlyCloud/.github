@@ -1,3 +1,5 @@
+<!--
+
 <center>
 
 ![Image of ZeedlyCloud](https://cdn.upload-host.de/m/33b32d-de71af.png)
@@ -86,3 +88,4 @@ chmod +x start.sh
 > Cheap Hoster: take [ExpanseHost](https://aff.eynoah.de)
 - Our Discord: [dc.Zeedly.cloud](https://discord.gift)
 - Homepage: [www.Zeedly.cloud](https://www.mythiccloud.de) (*Cooming Soon*)
+--->
